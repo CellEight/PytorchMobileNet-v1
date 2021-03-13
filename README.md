@@ -1,6 +1,6 @@
 # Pytorch MobileNet v1
 A Pytorch Implementation of the 2017 paper ["MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications"](https://arxiv.org/pdf/1704.04861.pdf) from Google.
-![dwconv.png]
+![Depth-Wise Convolution](dwconv.png)
 ## The Architectures
 
 The following table illustrates the default MobileNet architecture (i.e. the architecture in which both tunable parameters alpha and rho are equal to 1).
